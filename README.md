@@ -1,2 +1,3 @@
 # test-repo-settings
-WRONG DESCRIPTION - should be updated by Jig
+
+This repo tests the repo_settings resource reconciler.
